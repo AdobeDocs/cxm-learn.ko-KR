@@ -4,8 +4,9 @@ breadcrumb-title: 데이터 기반의 운영 모델 가이드
 user-guide-description: 이 비디오를 통해 Adobe 데이터 기반의 운영 모델을 사용하는 방법을 살펴볼 수 있습니다.
 solution: Experience Cloud
 type: 자습서
+hide: true
 translation-type: tm+mt
-source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
+source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
