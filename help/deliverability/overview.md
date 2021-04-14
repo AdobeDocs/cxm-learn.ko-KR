@@ -1,17 +1,17 @@
 ---
-title: 제공 가능성
+title: 전달성
 description: 문서 개요입니다.
-keywords: DDOM, 제공
-translation-type: tm+mt
+keywords: DDOM, 전달성
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '11'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 제공 가능성 개요
+# 전달성 개요
 
 환영합니다.
 
