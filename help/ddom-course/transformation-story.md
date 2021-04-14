@@ -1,17 +1,17 @@
 ---
-title: Adobe 변형 스토리
-description: Adobe 디지털 변환에서 DDOM이 수행한 역할에 대해 자세히 알아보십시오.
-translation-type: tm+mt
+title: Adobe의 전환 이야기
+description: DDOM이 Adobe의 디지털 전환에 어떤 역할을 했는지 알아봅니다.
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '30'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Adobe 변형 스토리
+# Adobe의 전환 이야기
 
-Adobe 디지털 변환에서 DDOM이 수행한 역할에 대해 자세히 알아보십시오.
+DDOM이 Adobe의 디지털 전환에 어떤 역할을 했는지 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41691)
