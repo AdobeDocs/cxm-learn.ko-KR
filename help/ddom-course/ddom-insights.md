@@ -1,17 +1,17 @@
 ---
-title: DDOM 인사이트 및 학습
-description: 'Adobe은 DDOM에 대한 통찰력을 통해 고유한 버전의 DDOM을 설정하는 데 고려해야 할 몇 가지 사항을 확인하고 확인할 수 있습니다. '
-translation-type: tm+mt
+title: DDOM의 인사이트와 고려 사항
+description: 'Adobe가 DDOM을 통해 발견할 수 있었던 인사이트의 예시를 살펴보고 자신만의 DDOM을 준비할 때 고려해야 할 사항을 알아봅니다. '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# DDOM 인사이트 및 학습
+# DDOM의 인사이트와 고려 사항
 
-Adobe은 DDOM에 대한 통찰력을 통해 고유한 버전의 DDOM을 설정하는 데 고려해야 할 몇 가지 사항을 확인하고 확인할 수 있습니다.
+Adobe가 DDOM을 통해 발견할 수 있었던 인사이트의 예시를 살펴보고 자신만의 DDOM을 준비할 때 고려해야 할 사항을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41693)
