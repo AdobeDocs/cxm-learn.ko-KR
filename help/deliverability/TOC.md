@@ -5,9 +5,8 @@ user-guide-description: 전달성 기능을 사용하는 방법을 알아보려�
 solution: Experience Cloud
 type: Tutorial
 hide: true
-translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16'
 ht-degree: 100%
 
