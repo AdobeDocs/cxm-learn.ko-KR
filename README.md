@@ -1,14 +1,13 @@
 ---
-source-git-commit: 5b7003822348e0bf678ac65036d58b4ec3f65c0f
-workflow-type: ht
-translation-type: ht
-source-wordcount: '430'
-ht-degree: 100%
+source-git-commit: c864b410a9e7d9f428cdcc889ffe7d58b9c4f35b
+workflow-type: tm+mt
+source-wordcount: '424'
+ht-degree: 95%
 
 ---
-# 문서에 기여
+# 문서 참여
 
-Adobe는 설명서 팀이 아닌 Adobe 직원뿐 아니라 커뮤니티의 참여를 환영합니다.
+Adobe는 설명서 팀 외부 Adobe 직원의 참여뿐 아니라 커뮤니티의 모든 참여를 환영합니다.
 
 ## Adobe 오픈 소스 행동 강령
 
@@ -16,15 +15,15 @@ Adobe는 설명서 팀이 아닌 Adobe 직원뿐 아니라 커뮤니티의 참�
 
 ## Adobe 콘텐츠 참여 정보
 
-[Adobe 설명서 참여자 안내서](https://docs.adobe.com/content/help/kr/contributor/contributor-guide/introduction.html)를 참조하세요.
+[Adobe 설명서 참여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하세요.
 
 참여 방법은 참여자가 누구인지, 참여하여 변경하려는 내용이 무엇인지에 따라 달라집니다.
 
 ### 문서를 소규모로 변경하려는 경우
 
-개인적인 선의로 문서를 작은 규모로 업데이트하려는 경우 참여할 문서에서 **편집** 링크를 클릭하여 해당 문서의 GitHub 소스로 이동합니다. 그 다음 GitHub UI를 사용하여 업데이트하면 됩니다. 자세한 내용은 일반 [Adobe 설명서 참여자 안내서](https://docs.adobe.com/content/help/kr/contributor/contributor-guide/introduction.html)를 참조하세요.
+개인적인 선의로 문서를 작은 규모로 업데이트하려는 경우 참여할 문서에서 **편집** 링크를 클릭하여 해당 문서의 GitHub 소스로 이동합니다. 그 다음 GitHub UI를 사용하여 업데이트하면 됩니다. 자세한 내용은 일반 [Adobe 설명서 참여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하세요.
 
-이 Repo의 설명서 및 코드 예제에 대하여 제출하는 소규모 정정이나 추가 설명에는 Adobe 사용 약관이 적용됩니다.
+이 저장소의 설명서 및 코드 예제에 대하여 제출하는 소규모 정정이나 추가 설명에는 Adobe 사용 약관이 적용됩니다.
 
 ### 커뮤니티 구성원이 문서를 대규모로 변경하거나 신규 문서를 작성하려는 경우
 
@@ -44,7 +43,7 @@ Adobe Experience Cloud 솔루션 제품 팀의 기술 작성자, 프로그램 �
 
 커뮤니티 참여자는 GitHub UI를 사용하여 기본적인 편집을 하거나 Repo 찍어오기로 대규모 변경을 제출할 수 있습니다.
 
-자세한 내용은 [Adobe 설명서 참여자 안내서](https://docs.adobe.com/content/help/kr/contributor/contributor-guide/introduction.html)를 참조하세요.
+자세한 내용은 [Adobe 설명서 참여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하세요.
 
 ## 마크다운으로 토픽의 포맷을 지정하는 방법
 
@@ -57,5 +56,5 @@ Adobe Experience Cloud 솔루션 제품 팀의 기술 작성자, 프로그램 �
 
 공개 저장소에서는 가져오기 요청에 자동 레이블이 지정되어 보다 쉽게 가져오기 요청 워크플로우를 관리하고 자신의 가져오기 요청 진행 상황을 확인할 수 있습니다.
 
-* **Change sent to author** (작성자에게 변경 전송 완료):작성자가 보류 중인 가져오기 요청에 대한 알림을 받았습니다.
+* **Change sent to author**(작성자에게 변경 전송 완료): 작성자가 보류 중인 가져오기 요청에 대한 알림을 받았습니다.
 * **ready-to-merge**(검토 준비 완료): Adobe의 가져오기 요청 검토 팀에서 검토할 준비가 되었습니다.
